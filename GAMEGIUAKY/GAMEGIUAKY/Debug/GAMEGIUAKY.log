@@ -1,0 +1,6 @@
+﻿  console.cpp
+  GameDuaXe.cpp
+E:\HK2\Kỹ thuật lập trình\GAMEGIUAKY\GAMEGIUAKY\GameDuaXe.cpp(81,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\HK2\Kỹ thuật lập trình\GAMEGIUAKY\GAMEGIUAKY\GameDuaXe.cpp(529,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  GAMEGIUAKY.vcxproj -> E:\HK2\Kỹ thuật lập trình\GAMEGIUAKY\Debug\GAMEGIUAKY.exe
